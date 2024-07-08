@@ -10,7 +10,7 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
-  chat:
+  tickets:
     build: .
     ports:
       - "8080:8080"

@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/jonathanqueiroz/chat/internal/app/models"
-	"github.com/jonathanqueiroz/chat/internal/app/repositories"
+	"github.com/jonathanqueiroz/tickets/internal/app/models"
+	"github.com/jonathanqueiroz/tickets/internal/app/repositories"
 	"github.com/labstack/echo"
 )
 

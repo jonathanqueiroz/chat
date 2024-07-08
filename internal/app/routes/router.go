@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com/jonathanqueiroz/chat/internal/app/handlers"
-	"github.com/jonathanqueiroz/chat/internal/app/repositories"
+	"github.com/jonathanqueiroz/tickets/internal/app/handlers"
+	"github.com/jonathanqueiroz/tickets/internal/app/repositories"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"gorm.io/gorm"

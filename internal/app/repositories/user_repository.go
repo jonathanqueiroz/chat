@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"github.com/jonathanqueiroz/chat/internal/app/models"
+	"github.com/jonathanqueiroz/tickets/internal/app/models"
 	"gorm.io/gorm"
 )
 

@@ -3,8 +3,8 @@ package database
 import (
 	"fmt"
 
-	"github.com/jonathanqueiroz/chat/internal/app/models"
-	config "github.com/jonathanqueiroz/chat/internal/configs"
+	"github.com/jonathanqueiroz/tickets/internal/app/models"
+	config "github.com/jonathanqueiroz/tickets/internal/configs"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

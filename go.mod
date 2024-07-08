@@ -1,4 +1,4 @@
-module github.com/jonathanqueiroz/chat
+module github.com/jonathanqueiroz/tickets
 
 go 1.22.3
 

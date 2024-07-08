@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/jonathanqueiroz/chat/internal/app/routes"
-	config "github.com/jonathanqueiroz/chat/internal/configs"
-	"github.com/jonathanqueiroz/chat/internal/database"
+	"github.com/jonathanqueiroz/tickets/internal/app/routes"
+	config "github.com/jonathanqueiroz/tickets/internal/configs"
+	"github.com/jonathanqueiroz/tickets/internal/database"
 
 	"github.com/labstack/echo"
 )
